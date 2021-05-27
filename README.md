@@ -8,4 +8,4 @@ https://docs.google.com/spreadsheets/d/1ms1Uq-8_YmBmIWNd4J38V01OghlfN19yDEkWjY_H
 
 Add this file to your Google Drive (top level) to be able to run the scripts. To do so, open link and choose > File > Add shortcut to Drive.
 
-A snapshot as csv data included in the data subfolder.
+A snapshot as csv data is included in the `data` subfolder.
