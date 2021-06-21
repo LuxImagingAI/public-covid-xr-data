@@ -1,6 +1,9 @@
 # public-covid-xr-data
 
-Scripts to reproduce PRISMA Analysis
+This is the public repository of the paper "Public Covid-19 X-ray datasets and their impact on model bias - a systematic review of a
+significant problem". Preprint version can be found: https://doi.org/10.1101/2021.02.15.21251775
+
+## Scripts to reproduce PRISMA Analysis
 
 Manual Annotations are necessary to run the scripts and available online at
 
